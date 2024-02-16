@@ -1,0 +1,9 @@
+# ninja log v5
+0	907	7297959776222278	CMakeFiles/Somtething_to_try.dir/main.cpp.obj	6e164a26fad85b0a
+911	1082	7297959777911229	Somtething_to_try.exe	1d48dbf3d49e1ab4
+3	657	7297965712241953	CMakeFiles/Somtething_to_try.dir/main.cpp.obj	6e164a26fad85b0a
+657	821	7297965713759392	Somtething_to_try.exe	1d48dbf3d49e1ab4
+4	981	7297980206033242	CMakeFiles/Somtething_to_try.dir/main.cpp.obj	6e164a26fad85b0a
+981	1147	7297980207648147	Somtething_to_try.exe	1d48dbf3d49e1ab4
+5	687	7297981618737153	CMakeFiles/Somtething_to_try.dir/main.cpp.obj	6e164a26fad85b0a
+688	831	7297981620092406	Somtething_to_try.exe	1d48dbf3d49e1ab4
