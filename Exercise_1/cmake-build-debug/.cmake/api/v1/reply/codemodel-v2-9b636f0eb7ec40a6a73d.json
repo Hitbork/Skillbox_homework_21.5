@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Skillbox_github/Homework 21.5/Skillbox_homework_21.5/Exercise_1/cmake-build-debug",
-		"source" : "C:/Skillbox_github/Homework 21.5/Skillbox_homework_21.5/Exercise_1"
+		"build" : "C:/Skillbox_repositories/Skillbox_homework_21.5/Skillbox_homework_21.5/Exercise_1/cmake-build-debug",
+		"source" : "C:/Skillbox_repositories/Skillbox_homework_21.5/Skillbox_homework_21.5/Exercise_1"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 6
 	}
 }
