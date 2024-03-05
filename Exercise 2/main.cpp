@@ -198,6 +198,7 @@ struct Plot {
         for (int i = 0; i < amount; ++i) {
             std::cout << "Building " << i+1 << ":\n\n";
             Building building;
+            percentageOfPlotOccupiedByBuildings += building.square / (this->square / 100);
             buildings.push_back(building);
         }
     };

@@ -1,0 +1,3 @@
+C:/Skillbox_repositories/Skillbox_homework_21.5/Skillbox_homework_21.5/Exercise 3/cmake-build-debug/CMakeFiles/Exercise_3.dir
+C:/Skillbox_repositories/Skillbox_homework_21.5/Skillbox_homework_21.5/Exercise 3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Skillbox_repositories/Skillbox_homework_21.5/Skillbox_homework_21.5/Exercise 3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
