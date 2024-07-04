@@ -19,6 +19,8 @@ struct Character {
         x = 0,
         y = 0;
 
+    Character() {}
+
     Character(int number) {
         if (number == 0) {
             std::cout << "Insert name of your character:\n";
@@ -86,8 +88,6 @@ struct Character {
     }
 };
 
-Character player(0);
-std::vector<Character> enemies;
 
 
 void FillingMapWithNothing() {
@@ -124,7 +124,6 @@ void LoadProgress() {
 void CreateEnemies() {
     for (int i = 1; i < 6; ++i) {
         Character enemy(i);
-        enemies.push_back(enemy);
     }
 }
 
